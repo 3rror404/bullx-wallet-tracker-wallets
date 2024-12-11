@@ -1,5 +1,11 @@
 [
     {
+        "name": "1M Barsik",
+        "address": "9UWZFoiCHeYRLmzmDJhdMrP7wgrTw7DMSpPiT2eHgJHe",
+        "emoji": "😀",
+        "tags": []
+    },
+    {
         "name": "6ROLBZJW",
         "address": "6RoLbZJWJHpTk4sdPsWzocEHiRtzPS36WcBjnMXuQrfU",
         "emoji": "😀",
@@ -116,6 +122,18 @@
     {
         "name": "GoodTraderMainWallet",
         "address": "3QnBeoPMPB3H78WgJssep7rs3A8477LR2FhtwrnZoRie",
+        "emoji": "😀",
+        "tags": []
+    },
+    {
+        "name": "Good Trader 7",
+        "address": "RFSqPtn1JfavGiUD4HJsZyYXvZsycxf31hnYfbyG6iB",
+        "emoji": "😀",
+        "tags": []
+    },
+    {
+        "name": "Insentos GrandFNF",
+        "address": "7SDs3PjT2mswKQ7Zo4FTucn9gJdtuW4jaacPA65BseHS",
         "emoji": "😀",
         "tags": []
     },
