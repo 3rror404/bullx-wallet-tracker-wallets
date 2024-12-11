@@ -79,7 +79,7 @@
     },
     {
         "name": "Frosty Jays (Quant)",
-        "address": "3tc4BVAdzjr1JpeZu6NAjLHyp4kK3iic7TexMBYGJ4Xk",
+        "address": "HtucFepgUkMpHdrYsxMqjBNN6qVBdjmFaLZneNXopuJm",
         "emoji": "😀",
         "tags": []
     },
@@ -230,6 +230,12 @@
     {
         "name": "Yogurt_eth",
         "address": "DKwybycDSWidrHfpMjaahUsT1Yid3kig86ncXPAGe7AU",
+        "emoji": "😀",
+        "tags": []
+    },
+    {
+        "name": "Zerobro 100k",
+        "address": "BDC19MFbzDpoF37QCxe4JR6i7UmXNMSiEqrxuQgJoWte",
         "emoji": "😀",
         "tags": []
     }
