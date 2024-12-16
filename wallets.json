@@ -66,6 +66,12 @@
         "tags": []
     },
     {
+        "name": "Dogeness 70k",
+        "address": "73KcgcTVyLYhnVX3PJbit8e4mC7jU8QotNGBFGix14jn",
+        "emoji": "🐶",
+        "tags": []
+    },
+    {
         "name": "Dutch",
         "address": "9vWutdTBs66hWkeCmxaLFpkKy4q5RSe8DsFjfdxj5yFA",
         "emoji": "🦄",
@@ -126,15 +132,27 @@
         "tags": []
     },
     {
+        "name": "Good Trader 1",
+        "address": "4hSXPtxZgXFpo6Vxq9yqxNjcBoqWN3VoaPJWonUtupzD",
+        "emoji": "1️⃣",
+        "tags": []
+    },
+    {
         "name": "Good Trader 7",
         "address": "RFSqPtn1JfavGiUD4HJsZyYXvZsycxf31hnYfbyG6iB",
-        "emoji": "🤝",
+        "emoji": "7️⃣",
         "tags": []
     },
     {
         "name": "Insentos GrandFNF",
         "address": "7SDs3PjT2mswKQ7Zo4FTucn9gJdtuW4jaacPA65BseHS",
         "emoji": "🎮",
+        "tags": []
+    },
+    {
+        "name": "Jamal",
+        "address": "JDd3hy3gQn2V982mi1zqhNqUw1GfV2UL6g76STojCJPN",
+        "emoji": "🫙",
         "tags": []
     },
     {
@@ -182,7 +200,7 @@
     {
         "name": "Mostache",
         "address": "2RssnB7hcrnBEx55hXMKT1E7gN27g9ecQFbbCc5Zjajq",
-        "emoji": "🎩",
+        "emoji": "🥸",
         "tags": []
     },
     {
@@ -210,9 +228,27 @@
         "tags": []
     },
     {
+        "name": "Polar",
+        "address": "GTvBQnRvAPweU2qmYg8MDLND2PAAyYFKe35aKQGMRDaL",
+        "emoji": "🧲",
+        "tags": []
+    },
+    {
         "name": "Profit (Quant)",
         "address": "BrNoqdHUCcv9yTncnZeSjSov8kqhpmzv1nAiPbq1M95H",
         "emoji": "💸",
+        "tags": []
+    },
+    {
+        "name": "Scooter 2",
+        "address": "FvTBarKFhrnhL9Q55bSJnMmAdXisayUb5u96eLejhMF9",
+        "emoji": "🛵",
+        "tags": []
+    },
+    {
+        "name": "Serpent",
+        "address": "5jMW1hzAKZSYbLvpHf6UviQ8PoSMmdh8LY8ZYPyb94ve",
+        "emoji": "🐍",
         "tags": []
     },
     {
